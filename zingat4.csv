@@ -1,0 +1,399 @@
+,Fiyat,Brüt Metrekare,yaş,bina_kat,Kullanım,tarih,tipi,Net Metrekare,oda sayısı,kaçıncı kat,ısıtma
+0,2275000,135 M2,5-10,5,Mülk Sahibi Oturuyor,23 Aralık 2022,Konut,120 M2,3+1,5.Kat,Kombi Doğalgaz
+2,1900000,110 M2,5-10,8,Mülk Sahibi Oturuyor,03 Ocak 2023,Konut,90 M2,2+1,2.Kat,Kombi Doğalgaz
+4,1325000,110 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,03 Ocak 2023,Konut,90 M2,2+1,2.Kat,Kombi Doğalgaz
+6,3375000,160 M2,16-20,7,Kiracı Oturuyor,23 Aralık 2022,Konut,140 M2,4+1,5.Kat,Kombi Doğalgaz
+8,800000,160 M2,16-20,6,Kiracı Oturuyor,28 Aralık 2022,Konut,125 M2,2+1,6.Kat,Kombi Doğalgaz
+10,1620000,125 M2,0 (Yeni),6,Boş,26 Aralık 2022,Konut,95 M2,3+1,Yüksek Giriş,Kombi Doğalgaz
+12,2150000,110 M2,5-10,5,Kiracı Oturuyor,04 Ocak 2023,Konut,100 M2,2+1,3.Kat,Kombi Doğalgaz
+14,2250000,180 M2,0 (Yeni),2,Boş,23 Aralık 2022,Konut,141 M2,3+1,Çatı Katı,Kombi Doğalgaz
+16,580000,130 M2,21 Ve Üzeri,4,Mülk Sahibi Oturuyor,03 Ocak 2023,Konut,126 M2,2+1,Kot 1 (-1).Kat,Kombi Doğalgaz
+18,11500000,300 M2,11-15,3,Boş,23 Aralık 2022,Konut,250 M2,3+2,Düz Giriş,Kombi Doğalgaz
+20,1500000,160 M2,11-15,4,Kiracı Oturuyor,01 Ocak 2023,Konut,140 M2,4+1,4.Kat,Kombi Doğalgaz
+22,1750000,120 M2,0 (Yeni),6,Boş,22 Aralık 2022,Konut,100 M2,3+1,1.Kat,Kombi Doğalgaz
+24,5300000,225 M2,5-10,4,Boş,29 Aralık 2022,Konut,165 M2,4+2,4.Kat,Kombi Doğalgaz
+26,825000,100 M2,21 Ve Üzeri,4,Boş,19 Aralık 2022,Konut,99 M2,2+1,4.Kat,Sobalı
+28,1100000,130 M2,0 (Yeni),3,Boş,27 Aralık 2022,Konut,105 M2,2+1,3.Kat,Kombi Doğalgaz
+30,1150000,120 M2,21 Ve Üzeri,5,Boş,15 Aralık 2022,Konut,105 M2,2+1,4.Kat,Kombi Doğalgaz
+32,1050000,86 M2,0 (Yeni),3,Boş,17 Kasım 2022,Konut,78 M2,2+1,Bahçe Katı,Kombi Doğalgaz
+34,2250000,160 M2,0 (Yeni),5,Boş,11 Ekim 2022,Konut,129 M2,3+1,1.Kat,Kombi Doğalgaz
+36,650000,120 M2,21 Ve Üzeri,4,Kiracı Oturuyor,17 Kasım 2022,Konut,119 M2,3+1,1.Kat,Kombi Doğalgaz
+38,950000,135 M2,21 Ve Üzeri,5,Kiracı Oturuyor,06 Ekim 2022,Konut,120 M2,3+1,4.Kat,Kombi Doğalgaz
+40,2600000,160 M2,0 (Yeni),3,Boş,05 Aralık 2022,Konut,140 M2,3+1,2.Kat,Kombi Doğalgaz
+42,4600000,445 M2,21 Ve Üzeri,3,Boş,22 Ekim 2022,Konut,170 M2,3+1,Villa Tipi,Klimalı
+44,475000,85 M2,16-20,4,Boş,29 Kasım 2022,Konut,80 M2,2+1,1.Kat,Merkezi Doğalgaz
+46,3500000,250 M2,4,4,Boş,18 Ekim 2022,Konut,220 M2,5+1,Kot 3 (-3).Kat,Kombi Doğalgaz
+48,1400000,330 M2,16-20,4,Mülk Sahibi Oturuyor,16 Kasım 2022,Konut,280 M2,5+2,4.Kat,Kombi Doğalgaz
+50,410000,85 M2,21 Ve Üzeri,4,Kiracı Oturuyor,01 Ekim 2022,Konut,75 M2,2+1,Yüksek Giriş,Sobalı
+52,9850000,650 M2,11-15,3,Boş,07 Kasım 2022,Konut,450 M2,5+1,Düz Giriş,Kombi Doğalgaz
+54,1200000,125 M2,1,3,Boş,24 Eylül 2022,Konut,120 M2,3+1,2.Kat,Kombi Doğalgaz
+56,5580000,150 M2,2,5,Mülk Sahibi Oturuyor,03 Kasım 2022,Konut,130 M2,3+1,3.Kat,Kombi Doğalgaz
+58,950000,90 M2,5-10,7,Boş,15 Ağustos 2022,Konut,83 M2,2+1,6.Kat,Merkezi Doğalgaz
+60,1049000,90 M2,11-15,12,Boş,31 Ekim 2022,Konut,85 M2,2+1,Yüksek Giriş,Kombi Doğalgaz
+62,13500006,220 M2,5-10,5,Mülk Sahibi Oturuyor,28 Haziran 2022,Konut,200 M2,5+2,Çatı Dubleks,Merkezi Doğalgaz
+64,2090000,151 M2,0 (Yeni),10,Boş,31 Aralık 2022,Konut,100 M2,2+1,1.Kat,Yerden Isıtma
+66,5500001,155 M2,21 Ve Üzeri,5,Kiracı Oturuyor,02 Kasım 2022,Konut,150 M2,3+1,Yüksek Bodrum,Sobalı
+68,1525000,350 M2,21 Ve Üzeri,3,Kiracı Oturuyor,01 Kasım 2022,Konut,250 M2,5+2,Düz Giriş,Kombi Doğalgaz
+70,2250000,300 M2,21 Ve Üzeri,2,Boş,30 Aralık 2022,Konut,230 M2,6+1,Düz Giriş,Sobalı
+72,595000,160 M2,21 Ve Üzeri,2,Mülk Sahibi Oturuyor,29 Kasım 2022,Konut,155 M2,3+1,Müstakil.Kat,Kombi Doğalgaz
+74,500000,160 M2,21 Ve Üzeri,3,Boş,04 Eylül 2021,Konut,150 M2,2+2,Müstakil.Kat,Sobalı
+76,475000,95 M2,21 Ve Üzeri,4,Boş,12 Kasım 2022,Konut,85 M2,2+1,Tam Bodrum.Kat,Kombi Doğalgaz
+78,18750000,1.200 M2,5-10,3,Boş,25 Ekim 2022,Konut,400 M2,5+1,Düz Giriş,Kombi Doğalgaz
+80,1050000,85 M2,0 (Yeni),5,Boş,29 Ağustos 2021,Konut,80 M2,2+1,4.Kat,Isıtma Yok
+82,1550000,300 M2,5-10,5,Kiracı Oturuyor,06 Ekim 2022,Konut,280 M2,5+1,Düz Giriş,Kombi Doğalgaz
+84,4100000,500 M2,21 Ve Üzeri,4,Boş,23 Aralık 2022,Konut,350 M2,5+1,Düz Giriş,Klimalı
+86,1475000,240 M2,5-10,1,Mülk Sahibi Oturuyor,14 Eylül 2022,Konut,100 M2,2+1,Müstakil.Kat,Sobalı
+88,3800000,320 M2,4,2,Boş,21 Aralık 2022,Konut,300 M2,6+1,2.Kat,Kombi Doğalgaz
+90,2350000,293 M2,11-15,4,Kiracı Oturuyor,19 Aralık 2022,Konut,270 M2,5+1,4.Kat,Kombi Doğalgaz
+92,2590000,285 M2,5-10,10,Boş,13 Haziran 2022,Konut,185 M2,4+1,4.Kat,Kombi Doğalgaz
+94,1150000,200 M2,21 Ve Üzeri,3,Kiracı Oturuyor,10 Aralık 2022,Konut,150 M2,4+1,3.Kat,Kombi Doğalgaz
+96,2500000,165 M2,0 (Yeni),4,Boş,04 Ocak 2023,Konut,145 M2,3+1,2.Kat,Yerden Isıtma
+98,1650000,150 M2,21 Ve Üzeri,5,Boş,04 Ocak 2023,Konut,140 M2,4+1,4.Kat,Kombi Doğalgaz
+100,950000,130 M2,21 Ve Üzeri,5,Boş,04 Ocak 2023,Konut,110 M2,3+1,2.Kat,Kombi Doğalgaz
+102,2500000,300 M2,0 (Yeni),6,Boş,04 Ocak 2023,Konut,284 M2,5+2,5.Kat,Kombi Doğalgaz
+104,890000,75 M2,4,6,Kiracı Oturuyor,04 Ocak 2023,Konut,65 M2,2+1,2.Kat,Kombi Doğalgaz
+106,375000,90 M2,21 Ve Üzeri,4,Mülk Sahibi Oturuyor,12 Nisan 2022,Konut,85 M2,2+1,2.Kat,Doğalgaz Sobalı
+108,15450000,300 M2,0 (Yeni),2,Boş,04 Ocak 2023,Konut,220 M2,4.5+1,2.Kat,Yerden Isıtma
+110,579000,65 M2,0 (Yeni),5,Boş,13 Ocak 2022,Konut,59 M2,2+1,1.Kat,Kombi Doğalgaz
+112,780000,75 M2,21 Ve Üzeri,3,Boş,04 Ocak 2023,Konut,65 M2,1+1,3.Kat,Kombi Doğalgaz
+114,6850000,284 M2,5-10,4,Boş,04 Ocak 2023,Konut,160 M2,8+ Oda,Müstakil.Kat,Kombi Doğalgaz
+116,1700000,95 M2,21 Ve Üzeri,4,Kiracı Oturuyor,04 Ocak 2023,Konut,90 M2,2+1,3.Kat,Doğalgaz Sobalı
+118,6750000,204 M2,11-15,20,Kiracı Oturuyor,04 Ocak 2023,Konut,203 M2,3+1,10-20.Kat,Merkezi Doğalgaz
+120,2500000,140 M2,0 (Yeni),3,Boş,04 Ocak 2023,Konut,125 M2,3+1,Düz Giriş,Yerden Isıtma
+122,1340000,225 M2,2,3,Boş,04 Ocak 2023,Konut,200 M2,4+1,3.Kat,Kombi Doğalgaz
+124,2600000,140 M2,5-10,7,Mülk Sahibi Oturuyor,03 Ocak 2023,Konut,115 M2,3+1,3.Kat,Kombi Doğalgaz
+126,710000,94 M2,11-15,3,Boş,04 Ocak 2023,Konut,80 M2,2+1,1.Kat,Kombi Doğalgaz
+128,1325000,96 M2,5-10,6,Kiracı Oturuyor,03 Ocak 2023,Konut,84 M2,2+1,3.Kat,Merkezi (Pay Ölçer)
+130,575000,300 M2,16-20,1,Boş,03 Ocak 2023,Konut,296 M2,2+1,Bahçe Katı,Sobalı
+132,2200000,150 M2,0 (Yeni),3,Boş,03 Ocak 2023,Konut,140 M2,3+1,2.Kat,Kombi Doğalgaz
+134,875000,105 M2,21 Ve Üzeri,5,Boş,03 Ocak 2023,Konut,95 M2,2+1,4.Kat,Doğalgaz Sobalı
+136,585000,105 M2,16-20,3,Mülk Sahibi Oturuyor,03 Ocak 2023,Konut,95 M2,2+1,Kot 3 (-3).Kat,Kombi Doğalgaz
+138,1250000,120 M2,0 (Yeni),5,Boş,04 Ocak 2023,Konut,90 M2,2+1,1.Kat,Kombi Doğalgaz
+140,2950000,705 M2,16-20,2,Boş,03 Ocak 2023,Konut,250 M2,5+2,Müstakil.Kat,Doğalgaz Sobalı
+142,1550000,140 M2,0 (Yeni),3,Boş,03 Ocak 2023,Konut,130 M2,3+1,3.Kat,Kombi Doğalgaz
+144,395000,90 M2,21 Ve Üzeri,4,Boş,03 Ocak 2023,Konut,87 M2,2+1,3.Kat,Sobalı
+146,1300000,125 M2,0 (Yeni),3,Boş,03 Ocak 2023,Konut,120 M2,2+1,Çatı Dubleks,Kombi Doğalgaz
+148,1450000,120 M2,0 (Yeni),3,Boş,02 Ocak 2023,Konut,90 M2,2+1,2.Kat,Yerden Isıtma
+150,765000,100 M2,21 Ve Üzeri,5,Boş,03 Ocak 2023,Konut,90 M2,2+1,5.Kat,Kombi Doğalgaz
+152,790000,70 M2,4,3,Kiracı Oturuyor,02 Ocak 2023,Konut,60 M2,1+1,Bahçe Katı,Kombi Doğalgaz
+154,4600000,240 M2,0 (Yeni),11,Mülk Sahibi Oturuyor,03 Ocak 2023,Konut,200 M2,4+1,3.Kat,Yerden Isıtma
+156,4250000,65 M2,21 Ve Üzeri,2,Boş,02 Ocak 2023,Konut,60 M2,2+1,1.Kat,Kombi Doğalgaz
+158,6900000,230 M2,11-15,17,Kiracı Oturuyor,03 Ocak 2023,Konut,200 M2,4+1,10.Kat,Merkezi (Pay Ölçer)
+160,450000,125 M2,21 Ve Üzeri,5,Kiracı Oturuyor,01 Ocak 2023,Konut,115 M2,3+1,5.Kat,Kombi Doğalgaz
+162,1430000,135 M2,11-15,12,Kiracı Oturuyor,01 Ocak 2023,Konut,120 M2,3+1,7.Kat,Kombi Doğalgaz
+164,1150000,100 M2,21 Ve Üzeri,4,Mülk Sahibi Oturuyor,02 Ocak 2023,Konut,95 M2,3+1,3.Kat,Kombi Doğalgaz
+166,1509000,64 M2,0 (Yeni),5,Boş,01 Ocak 2023,Konut,56 M2,2+1,3.Kat,Yerden Isıtma
+168,2350000,300 M2,21 Ve Üzeri,3,Mülk Sahibi Oturuyor,01 Ocak 2023,Konut,270 M2,8+ Oda,Düz Giriş,Kombi Doğalgaz
+170,1150000,120 M2,4,3,Mülk Sahibi Oturuyor,02 Ocak 2023,Konut,110 M2,3+1,2.Kat,Kombi Doğalgaz
+172,2150000,270 M2,0 (Yeni),3,Boş,01 Ocak 2023,Konut,240 M2,6+1,3.Kat,Kombi Doğalgaz
+174,1100000,176 M2,21 Ve Üzeri,5,Kiracı Oturuyor,02 Ocak 2023,Konut,175 M2,3+1,5.Kat,Kombi Doğalgaz
+176,5200000,220 M2,5-10,2,Mülk Sahibi Oturuyor,01 Ocak 2023,Konut,180 M2,3+1,2.Kat,Kombi Doğalgaz
+178,2765000,160 M2,2,10,Mülk Sahibi Oturuyor,01 Ocak 2023,Konut,140 M2,3+1,6.Kat,Merkezi (Pay Ölçer)
+180,840000,75 M2,16-20,4,Kiracı Oturuyor,01 Ocak 2023,Konut,60 M2,2+1,1.Kat,Kombi Doğalgaz
+182,1175000,165 M2,21 Ve Üzeri,4,Boş,02 Ocak 2023,Konut,160 M2,3+1,2.Kat,Kombi Doğalgaz
+184,1790000,248 M2,4,3,Mülk Sahibi Oturuyor,31 Aralık 2022,Konut,230 M2,6+1,3.Kat,Kombi Doğalgaz
+186,1950000,120 M2,4,10,Boş,31 Aralık 2022,Konut,100 M2,2+1,6.Kat,Kombi Doğalgaz
+188,2400000,240 M2,3,3,Mülk Sahibi Oturuyor,31 Aralık 2022,Konut,180 M2,5+1,3.Kat,Kombi Doğalgaz
+190,1850000,140 M2,21 Ve Üzeri,6,Kiracı Oturuyor,31 Aralık 2022,Konut,115 M2,3+1,2.Kat,Merkezi (Pay Ölçer)
+192,825000,85 M2,21 Ve Üzeri,4,Boş,02 Ocak 2023,Konut,75 M2,2+1,Yüksek Giriş,Kombi Doğalgaz
+194,2300000,207 M2,5-10,22,Kiracı Oturuyor,31 Aralık 2022,Konut,179 M2,4+1,11.Kat,Merkezi (Pay Ölçer)
+196,455000,65 M2,5-10,3,Kiracı Oturuyor,31 Aralık 2022,Konut,55 M2,1+1,3.Kat,Kombi Doğalgaz
+198,1750000,273 M2,21 Ve Üzeri,3,Kiracı Oturuyor,30 Aralık 2022,Konut,180 M2,5+1,3.Kat,Sobalı
+200,1750000,116 M2,16-20,3,Mülk Sahibi Oturuyor,30 Aralık 2022,Konut,100 M2,6+3,Bahçe Katı,Kat Kaloriferi
+202,695000,135 M2,21 Ve Üzeri,6,Kiracı Oturuyor,02 Ocak 2023,Konut,125 M2,3+1,6.Kat,Kombi Doğalgaz
+204,700000,110 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,02 Ocak 2023,Konut,100 M2,2+1,1.Kat,Kombi Doğalgaz
+206,1200000,110 M2,5-10,4,Kiracı Oturuyor,02 Ocak 2023,Konut,90 M2,2+1,2.Kat,Kombi Doğalgaz
+208,2550000,125 M2,4,5,Mülk Sahibi Oturuyor,03 Ocak 2023,Konut,115 M2,3+1,1.Kat,Kombi Doğalgaz
+210,23500001,151 M2,16-20,3,Kiracı Oturuyor,02 Ocak 2023,Konut,140 M2,2+1,2.Kat,Kombi Doğalgaz
+212,1555000,71 M2,3,15,Kiracı Oturuyor,02 Ocak 2023,Konut,59 M2,1+1,3.Kat,Kombi Doğalgaz
+214,890000,70 M2,5-10,4,Kiracı Oturuyor,02 Ocak 2023,Konut,60 M2,2+1,2.Kat,Kombi Doğalgaz
+216,590000,120 M2,21 Ve Üzeri,4,Mülk Sahibi Oturuyor,02 Ocak 2023,Konut,110 M2,3+1,Düz Giriş,Kombi Doğalgaz
+218,1350000,150 M2,5-10,3,Kiracı Oturuyor,02 Ocak 2023,Konut,140 M2,3+1,Kot 1 (-1).Kat,Kombi Doğalgaz
+220,875000,225 M2,11-15,1,Kiracı Oturuyor,31 Aralık 2022,Konut,90 M2,2+1,Bahçe Katı,Sobalı
+222,2850000,250 M2,21 Ve Üzeri,4,Kiracı Oturuyor,01 Ocak 2023,Konut,249 M2,2+1,Düz Giriş,Kombi Doğalgaz
+224,1025000,70 M2,0 (Yeni),4,Kiracı Oturuyor,01 Ocak 2023,Konut,60 M2,2+1,3.Kat,Yerden Isıtma
+226,950000,84 M2,16-20,3,Kiracı Oturuyor,31 Aralık 2022,Konut,70 M2,2+1,Düz Giriş,Sobalı
+228,1525000,110 M2,4,4,Mülk Sahibi Oturuyor,29 Aralık 2022,Konut,90 M2,2+1,Çatı Dubleks,Kombi Doğalgaz
+230,3350000,210 M2,3,5,Boş,29 Aralık 2022,Konut,150 M2,3+1,5.Kat,Kombi Doğalgaz
+232,1535000,105 M2,0 (Yeni),4,Boş,29 Aralık 2022,Konut,75 M2,2+1,2.Kat,Kombi Doğalgaz
+234,3279000,120 M2,16-20,3,Boş,01 Ocak 2023,Konut,110 M2,2+1,2.Kat,Kombi Doğalgaz
+236,1350000,145 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,29 Aralık 2022,Konut,135 M2,3+1,5.Kat,Kombi Doğalgaz
+238,2900000,340 M2,5-10,5,Boş,29 Aralık 2022,Konut,200 M2,5+1,5.Kat,Kombi Doğalgaz
+240,1600000,55 M2,21 Ve Üzeri,4,Boş,29 Aralık 2022,Konut,54 M2,1+1,2.Kat,Kombi Doğalgaz
+242,580000,125 M2,21 Ve Üzeri,1,Mülk Sahibi Oturuyor,29 Aralık 2022,Konut,120 M2,3+1,Bahçe Katı,Kombi Doğalgaz
+244,680000,115 M2,0 (Yeni),3,Boş,29 Aralık 2022,Konut,105 M2,2+1,Tam Bodrum.Kat,Kombi Doğalgaz
+246,695000,60 M2,5-10,4,Boş,01 Ocak 2023,Konut,50 M2,1+1,3.Kat,Isıtma Yok
+248,1730000,132 M2,5-10,8,Mülk Sahibi Oturuyor,28 Aralık 2022,Konut,111 M2,3+1,4.Kat,Kombi Doğalgaz
+250,299000,75 M2,5-10,3,Boş,31 Aralık 2022,Konut,65 M2,2+1,2.Kat,Merkezi Doğalgaz
+252,1300000,60 M2,0 (Yeni),6,Boş,28 Aralık 2022,Konut,45 M2,2+1,5.Kat,Kombi Doğalgaz
+254,1150000,130 M2,21 Ve Üzeri,2,Mülk Sahibi Oturuyor,28 Aralık 2022,Konut,110 M2,3+1,Müstakil.Kat,Doğalgaz Sobalı
+256,1420000,130 M2,5-10,5,Boş,28 Aralık 2022,Konut,115 M2,3+1,3.Kat,Kombi Doğalgaz
+258,950000,60 M2,0 (Yeni),3,Boş,28 Aralık 2022,Konut,40 M2,1+1,1.Kat,Kombi Doğalgaz
+260,1850000,310 M2,0 (Yeni),4,Boş,31 Aralık 2022,Konut,300 M2,6+1,4.Kat,Kombi Doğalgaz
+262,5500000,164 M2,0 (Yeni),3,Boş,28 Aralık 2022,Konut,140 M2,4+1,Villa Tipi,Klimalı
+264,6200000,345 M2,11-15,3,Mülk Sahibi Oturuyor,28 Aralık 2022,Konut,275 M2,3+2,Düz Giriş,Kombi Doğalgaz
+266,1625000,134 M2,5-10,6,Mülk Sahibi Oturuyor,28 Aralık 2022,Konut,120 M2,2+1,4.Kat,Kombi Doğalgaz
+268,630000,110 M2,21 Ve Üzeri,5,Boş,31 Aralık 2022,Konut,90 M2,2+1,5.Kat,Doğalgaz Sobalı
+270,640000,130 M2,21 Ve Üzeri,4,Boş,27 Aralık 2022,Konut,120 M2,3+1,4.Kat,Kombi Doğalgaz
+272,600000,100 M2,21 Ve Üzeri,5,Kiracı Oturuyor,27 Aralık 2022,Konut,92 M2,2+1,3.Kat,Kombi Doğalgaz
+274,800000,48 M2,1,4,Kiracı Oturuyor,27 Aralık 2022,Konut,31 M2,1+1,1.Kat,Yerden Isıtma
+276,1149000,55 M2,1,5,Kiracı Oturuyor,27 Aralık 2022,Konut,40 M2,2+1,3.Kat,Kombi Doğalgaz
+278,960000,75 M2,5-10,4,Boş,27 Aralık 2022,Konut,65 M2,2+1,4.Kat,Kombi Doğalgaz
+280,700000,110 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,27 Aralık 2022,Konut,100 M2,2+1,1.Kat,Kombi Doğalgaz
+282,2300000,280 M2,11-15,6,Kiracı Oturuyor,26 Aralık 2022,Konut,250 M2,4+2,5.Kat,Kombi Doğalgaz
+284,1600000,135 M2,5-10,3,Mülk Sahibi Oturuyor,26 Aralık 2022,Konut,120 M2,3+1,3.Kat,Kombi Doğalgaz
+286,620000,90 M2,21 Ve Üzeri,6,Kiracı Oturuyor,24 Aralık 2022,Konut,80 M2,2+1,2.Kat,Doğalgaz Sobalı
+288,1800000,257 M2,4,3,Mülk Sahibi Oturuyor,24 Aralık 2022,Konut,200 M2,4+1,2.Kat,Kombi Doğalgaz
+290,1300000,140 M2,0 (Yeni),6,Boş,25 Aralık 2022,Konut,120 M2,3+1,Düz Giriş,Yerden Isıtma
+292,1550000,95 M2,21 Ve Üzeri,6,Boş,31 Aralık 2022,Konut,75 M2,2+1,4.Kat,Merkezi Doğalgaz
+294,1250000,120 M2,4,3,Mülk Sahibi Oturuyor,25 Aralık 2022,Konut,100 M2,3+1,1.Kat,Kombi Doğalgaz
+296,1400000,160 M2,4,3,Kiracı Oturuyor,24 Aralık 2022,Konut,150 M2,3+1,3.Kat,Kombi Doğalgaz
+298,1300000,110 M2,4,2,Boş,24 Aralık 2022,Konut,100 M2,2+1,1.Kat,Kombi Doğalgaz
+300,840000,100 M2,0 (Yeni),7,Boş,24 Aralık 2022,Konut,95 M2,3+1,3.Kat,Kombi Doğalgaz
+302,1540000,115 M2,5-10,5,Boş,24 Aralık 2022,Konut,95 M2,2+1,2.Kat,Kombi Doğalgaz
+304,1575000,185 M2,0 (Yeni),2,Boş,23 Aralık 2022,Konut,145 M2,3+1,2.Kat,Kombi Doğalgaz
+306,650000,65 M2,21 Ve Üzeri,8,Mülk Sahibi Oturuyor,30 Aralık 2022,Konut,60 M2,1+1,Bahçe Katı,Sobalı
+308,2150000,130 M2,5-10,4,Kiracı Oturuyor,23 Aralık 2022,Konut,110 M2,3+1,1.Kat,Kombi Doğalgaz
+310,790000,55 M2,5-10,4,Kiracı Oturuyor,23 Aralık 2022,Konut,50 M2,1+1,2.Kat,Kombi Doğalgaz
+312,700000,60 M2,5-10,4,Kiracı Oturuyor,23 Aralık 2022,Konut,55 M2,1+1,Yüksek Giriş,Kombi Doğalgaz
+314,19990001,176 M2,5-10,4,Mülk Sahibi Oturuyor,23 Aralık 2022,Konut,150 M2,3+1,3.Kat,Kombi Doğalgaz
+316,6900003,140 M2,21 Ve Üzeri,2,Boş,23 Aralık 2022,Konut,100 M2,2+1,Yüksek Giriş,Doğalgaz Sobalı
+318,1300000,154 M2,0 (Yeni),4,Boş,23 Aralık 2022,Konut,130 M2,3+1,2.Kat,Kombi Doğalgaz
+320,430000,120 M2,16-20,4,Boş,23 Aralık 2022,Konut,110 M2,2+1,Yüksek Giriş,Sobalı
+322,1450000,96 M2,0 (Yeni),3,Boş,22 Aralık 2022,Konut,85 M2,2+1,1.Kat,Kombi Doğalgaz
+324,2060000,133 M2,3,13,Kiracı Oturuyor,22 Aralık 2022,Konut,110 M2,3+1,5.Kat,Kombi Doğalgaz
+326,3300000,125 M2,4,6,Kiracı Oturuyor,23 Aralık 2022,Konut,110 M2,2+1,2.Kat,Yerden Isıtma
+328,1775000,135 M2,11-15,5,Boş,22 Aralık 2022,Konut,120 M2,3+1,5.Kat,Kombi Doğalgaz
+330,1950000,150 M2,2,7,Boş,22 Aralık 2022,Konut,135 M2,3+1,6.Kat,Kombi Doğalgaz
+332,1570000,110 M2,4,3,Mülk Sahibi Oturuyor,22 Aralık 2022,Konut,105 M2,2+1,Kot 1 (-1).Kat,Kombi Doğalgaz
+334,1129000,85 M2,0 (Yeni),5,Boş,30 Aralık 2022,Konut,45 M2,1+1,1.Kat,Kombi Doğalgaz
+336,170000,69 M2,21 Ve Üzeri,1,Mülk Sahibi Oturuyor,22 Aralık 2022,Konut,60 M2,2+1,Müstakil.Kat,Sobalı
+338,1500000,85 M2,21 Ve Üzeri,5,Kiracı Oturuyor,22 Aralık 2022,Konut,70 M2,2+1,5.Kat,Kombi Doğalgaz
+340,1300000,160 M2,21 Ve Üzeri,5,Boş,30 Aralık 2022,Konut,140 M2,3+1,4.Kat,Merkezi Doğalgaz
+342,1960000,133 M2,3,14,Mülk Sahibi Oturuyor,21 Aralık 2022,Konut,110 M2,3+1,3.Kat,Kombi Doğalgaz
+344,3140000,250 M2,16-20,3,Mülk Sahibi Oturuyor,21 Aralık 2022,Konut,200 M2,4+1,Düz Giriş,Kombi Doğalgaz
+346,2650000,210 M2,5-10,6,Mülk Sahibi Oturuyor,22 Aralık 2022,Konut,180 M2,3+1,6.Kat,Kombi Doğalgaz
+348,670000,80 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,22 Aralık 2022,Konut,75 M2,1+1,2.Kat,Kombi Doğalgaz
+350,1980000,160 M2,11-15,6,Boş,21 Aralık 2022,Konut,150 M2,4.5+1,Çatı Katı,Kombi Doğalgaz
+352,2175000,165 M2,11-15,5,Boş,30 Aralık 2022,Konut,145 M2,3+1,2.Kat,Doğalgaz Sobalı
+354,1690000,140 M2,5-10,6,Boş,21 Aralık 2022,Konut,125 M2,3+1,6.Kat,Yerden Isıtma
+356,660000,130 M2,21 Ve Üzeri,5,Boş,21 Aralık 2022,Konut,125 M2,3+1,2.Kat,Kombi Doğalgaz
+358,930000,150 M2,0 (Yeni),4,Boş,21 Aralık 2022,Konut,140 M2,3+1,1.Kat,Kombi Doğalgaz
+360,1850000,173 M2,3,5,Kiracı Oturuyor,21 Aralık 2022,Konut,145 M2,3+1,2.Kat,Yerden Isıtma
+362,1675000,130 M2,21 Ve Üzeri,2,Mülk Sahibi Oturuyor,21 Aralık 2022,Konut,100 M2,3+1,Düz Giriş,Kombi Doğalgaz
+364,2425000,135 M2,5-10,8,Kiracı Oturuyor,21 Aralık 2022,Konut,122 M2,3+1,5.Kat,Kombi Doğalgaz
+366,4250000,135 M2,21 Ve Üzeri,7,Mülk Sahibi Oturuyor,21 Aralık 2022,Konut,120 M2,3+1,2.Kat,Kombi Doğalgaz
+368,1250000,165 M2,5-10,5,Kiracı Oturuyor,21 Aralık 2022,Konut,145 M2,3+1,1.Kat,Kombi Doğalgaz
+370,4250000,300 M2,1,7,Boş,21 Aralık 2022,Konut,260 M2,5+2,7.Kat,Yerden Isıtma
+372,1800000,120 M2,21 Ve Üzeri,2,Kiracı Oturuyor,21 Aralık 2022,Konut,85 M2,4+1,Düz Giriş,Kombi Doğalgaz
+374,3150000,250 M2,4,4,Kiracı Oturuyor,21 Aralık 2022,Konut,200 M2,4+1,3.Kat,Kombi Doğalgaz
+376,1100000,140 M2,4,4,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,128 M2,3+1,Çatı Dubleks,Kombi Doğalgaz
+378,1200000,75 M2,0 (Yeni),4,Boş,20 Aralık 2022,Konut,70 M2,2+1,1.Kat,Kombi Doğalgaz
+380,4000000,400 M2,0 (Yeni),8,Boş,20 Aralık 2022,Konut,300 M2,4+1,8.Kat,Yerden Isıtma
+382,7380000,370 M2,0 (Yeni),3,Boş,20 Aralık 2022,Konut,340 M2,6+1,Düz Giriş,Yerden Isıtma
+384,2400000,220 M2,4,5,Boş,20 Aralık 2022,Konut,190 M2,5+1,Çatı Katı,Kombi Doğalgaz
+386,1990000,170 M2,11-15,4,Kiracı Oturuyor,20 Aralık 2022,Konut,155 M2,3+1,3.Kat,Kombi Doğalgaz
+388,749000,45 M2,11-15,4,Boş,30 Aralık 2022,Konut,35 M2,1+1,2.Kat,Klimalı
+390,7900000,235 M2,5-10,2,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,215 M2,3.5+1,Bahçe Katı,Yerden Isıtma
+392,2800000,165 M2,0 (Yeni),10,Kiracı Oturuyor,20 Aralık 2022,Konut,135 M2,3+1,10.Kat,Kombi Doğalgaz
+394,2680000,165 M2,0 (Yeni),4,Boş,20 Aralık 2022,Konut,150 M2,3+1,3.Kat,Kombi Doğalgaz
+396,5999999,340 M2,21 Ve Üzeri,3,Boş,20 Aralık 2022,Konut,280 M2,4+2,Villa Tipi,Kombi Doğalgaz
+398,3000000,280 M2,4,7,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,250 M2,6+1,7.Kat,Kombi Doğalgaz
+400,1980000,105 M2,1,2,Kiracı Oturuyor,20 Aralık 2022,Konut,75 M2,2+1,1.Kat,Kombi Doğalgaz
+402,2300000,220 M2,5-10,5,Kiracı Oturuyor,20 Aralık 2022,Konut,180 M2,4+1,1.Kat,Kombi Doğalgaz
+404,1590000,150 M2,5-10,6,Boş,20 Aralık 2022,Konut,125 M2,3+1,Çatı Dubleks,Kombi Doğalgaz
+406,4500000,200 M2,21 Ve Üzeri,5,Boş,20 Aralık 2022,Konut,180 M2,3+1,1.Kat,Kombi Doğalgaz
+408,825000,165 M2,21 Ve Üzeri,1,Mülk Sahibi Oturuyor,04 Ocak 2023,Konut,154 M2,3+2,Müstakil.Kat,Kombi Doğalgaz
+410,3590000,205 M2,2,9,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,166 M2,4+1,Bahçe Katı,Merkezi (Pay Ölçer)
+412,1610000,160 M2,0 (Yeni),10,Boş,20 Aralık 2022,Konut,127 M2,3+1,10.Kat,Yerden Isıtma
+414,1050000,95 M2,5-10,4,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,75 M2,2+1,Düz Giriş,Kombi Doğalgaz
+416,695000,95 M2,0 (Yeni),4,Boş,20 Aralık 2022,Konut,75 M2,2+1,1.Kat,Kombi Doğalgaz
+418,1975000,301 M2,21 Ve Üzeri,Sobalı,Krediye Uygun Değil,20 Aralık 2022,Konut,300 M2,8+ Oda,3,Boş
+420,1650000,100 M2,3,4,Boş,20 Aralık 2022,Konut,90 M2,2+1,2.Kat,Kombi Doğalgaz
+422,2250000,240 M2,0 (Yeni),4,Boş,20 Aralık 2022,Konut,190 M2,4+1,4.Kat,Kombi Doğalgaz
+424,4200000,170 M2,11-15,6,Kiracı Oturuyor,19 Aralık 2022,Konut,155 M2,3+1,1.Kat,Kombi Doğalgaz
+426,4000000,138 M2,0 (Yeni),14,Boş,19 Aralık 2022,Konut,125 M2,3+1,11.Kat,Yerden Isıtma
+428,3000000,160 M2,16-20,5,Kiracı Oturuyor,19 Aralık 2022,Konut,150 M2,3+1,1.Kat,Kombi Doğalgaz
+430,3150000,250 M2,0 (Yeni),7,Boş,19 Aralık 2022,Konut,200 M2,5+1,7.Kat,Kombi Doğalgaz
+432,6750000,227 M2,1,6,Boş,19 Aralık 2022,Konut,217 M2,4+1,Bahçe Katı,Yerden Isıtma
+434,3250000,165 M2,2,5,Boş,03 Ocak 2023,Konut,140 M2,3+1,4.Kat,Yerden Isıtma
+436,1200000,100 M2,11-15,5,Kiracı Oturuyor,19 Aralık 2022,Konut,90 M2,2+1,2.Kat,Kombi Doğalgaz
+438,600000,110 M2,16-20,4,Boş,19 Aralık 2022,Konut,100 M2,3+1,4.Kat,Kombi Doğalgaz
+440,1700000,145 M2,5-10,4,Boş,03 Ocak 2023,Konut,125 M2,3+1,1.Kat,Kombi Doğalgaz
+442,600000,110 M2,21 Ve Üzeri,4,Mülk Sahibi Oturuyor,19 Aralık 2022,Konut,100 M2,3+1,2.Kat,Kombi Doğalgaz
+444,690000,90 M2,21 Ve Üzeri,5,Kiracı Oturuyor,19 Aralık 2022,Konut,85 M2,2+1,4.Kat,Kombi Doğalgaz
+446,2600000,150 M2,1,12,Kiracı Oturuyor,19 Aralık 2022,Konut,80 M2,2+1,5.Kat,Yerden Isıtma
+448,1275000,190 M2,0 (Yeni),5,Boş,18 Aralık 2022,Konut,150 M2,3+1,5.Kat,Kombi Doğalgaz
+450,6550000,160 M2,5-10,6,Mülk Sahibi Oturuyor,18 Aralık 2022,Konut,140 M2,4+1,2.Kat,Kat Kaloriferi
+452,1980000,115 M2,0 (Yeni),6,Boş,18 Aralık 2022,Konut,100 M2,2+1,Bahçe Katı,Yerden Isıtma
+454,3200000,212 M2,0 (Yeni),6,Boş,18 Aralık 2022,Konut,147 M2,3.5+1,1.Kat,Yerden Isıtma
+456,3729000,201 M2,0 (Yeni),6,Boş,18 Aralık 2022,Konut,152 M2,3.5+1,2.Kat,Yerden Isıtma
+458,2499000,179 M2,11-15,10,Mülk Sahibi Oturuyor,18 Aralık 2022,Konut,155 M2,3+1,2.Kat,Merkezi (Pay Ölçer)
+460,775000,115 M2,11-15,3,Boş,18 Aralık 2022,Konut,105 M2,2+1,2.Kat,Kombi Doğalgaz
+462,1330000,110 M2,5-10,4,Boş,01 Ocak 2023,Konut,90 M2,2+1,4.Kat,Kombi Doğalgaz
+464,1270000,110 M2,5-10,4,Boş,18 Aralık 2022,Konut,90 M2,2+1,4.Kat,Kombi Doğalgaz
+466,990000,80 M2,3,6,Boş,16 Aralık 2022,Konut,70 M2,1.5+1,Yüksek Giriş,Kombi Doğalgaz
+468,760000,730 M2,11-15,5,Kiracı Oturuyor,01 Ocak 2023,Konut,50 M2,2+0,Düz Giriş,Merkezi (Pay Ölçer)
+470,2250000,115 M2,21 Ve Üzeri,4,Kiracı Oturuyor,16 Aralık 2022,Konut,95 M2,2+1,Müstakil.Kat,Kombi Doğalgaz
+472,13500000,550 M2,16-20,3,Mülk Sahibi Oturuyor,01 Ocak 2023,Konut,400 M2,5+2,Düz Giriş,Yerden Isıtma
+474,1330000,110 M2,5-10,4,Boş,01 Ocak 2023,Konut,90 M2,2+1,4.Kat,Kombi Doğalgaz
+476,3650000,230 M2,4,3,Mülk Sahibi Oturuyor,17 Aralık 2022,Konut,190 M2,5+1,Çatı Dubleks,Yerden Isıtma
+478,999000,70 M2,0 (Yeni),5,Boş,17 Aralık 2022,Konut,60 M2,2+1,3.Kat,Yerden Isıtma
+480,2150000,160 M2,11-15,9,Mülk Sahibi Oturuyor,01 Ocak 2023,Konut,120 M2,3+1,1.Kat,Kombi Doğalgaz
+482,1245000,200 M2,11-15,5,Boş,16 Aralık 2022,Konut,135 M2,3+1,1.Kat,Kombi Doğalgaz
+484,2900000,280 M2,5-10,5,Mülk Sahibi Oturuyor,16 Aralık 2022,Konut,240 M2,5+3,Çatı Dubleks,Kombi Doğalgaz
+486,2000000,135 M2,0 (Yeni),5,Boş,31 Aralık 2022,Konut,107 M2,2+1,3.Kat,Kombi Doğalgaz
+488,9200000,250 M2,16-20,Kombi Doğalgaz,Krediye Uygun,16 Aralık 2022,Konut,240 M2,3+1,4,Kiracı Oturuyor
+490,1985000,175 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,16 Aralık 2022,Konut,150 M2,3+1,2.Kat,Kombi Doğalgaz
+492,2995000,145 M2,5-10,2,Mülk Sahibi Oturuyor,14 Aralık 2022,Konut,130 M2,3+1,1.Kat,Kombi Doğalgaz
+494,1750000,110 M2,0 (Yeni),5,Boş,14 Aralık 2022,Konut,95 M2,2+1,Bahçe Katı,Yerden Isıtma
+496,230000008,450 M2,1,2,Boş,14 Aralık 2022,Konut,400 M2,8+ Oda,Bahçe Katı,Kombi Doğalgaz
+498,720000,1.329 M2,21 Ve Üzeri,1,Boş,31 Aralık 2022,Konut,1.328 M2,2+1,Düz Giriş,Sobalı
+500,8000000,350 M2,0 (Yeni),5,Boş,14 Aralık 2022,Konut,330 M2,5+1,5.Kat,Kombi Doğalgaz
+502,725000,85 M2,21 Ve Üzeri,5,Boş,14 Aralık 2022,Konut,80 M2,2+1,3.Kat,Kombi Doğalgaz
+504,1270000,105 M2,5-10,8,Boş,14 Aralık 2022,Konut,85 M2,2+1,5.Kat,Kombi Doğalgaz
+506,2930000,200 M2,5-10,7,Kiracı Oturuyor,14 Aralık 2022,Konut,165 M2,4+1,2.Kat,Kombi Doğalgaz
+508,929000,85 M2,5-10,4,Kiracı Oturuyor,29 Aralık 2022,Konut,77 M2,2+1,4.Kat,Kombi Doğalgaz
+510,1170000,152 M2,5-10,3,Mülk Sahibi Oturuyor,14 Aralık 2022,Konut,120 M2,3+1,3.Kat,Kombi Doğalgaz
+512,2379000,185 M2,11-15,4,Kiracı Oturuyor,29 Aralık 2022,Konut,168 M2,3+1,2.Kat,Kombi Doğalgaz
+514,2210000,140 M2,0 (Yeni),6,Boş,29 Aralık 2022,Konut,120 M2,2+1,Bahçe Katı,Yerden Isıtma
+516,1300000,110 M2,5-10,4,Boş,13 Aralık 2022,Konut,90 M2,2+1,4.Kat,Kombi Doğalgaz
+518,500000,120 M2,11-15,4,Boş,29 Aralık 2022,Konut,110 M2,2+1,2.Kat,Kombi Doğalgaz
+520,1200000,110 M2,5-10,4,Kiracı Oturuyor,13 Aralık 2022,Konut,90 M2,2+1,2.Kat,Kombi Doğalgaz
+522,979000,90 M2,5-10,6,Boş,13 Aralık 2022,Konut,80 M2,3+1,2.Kat,Kombi Doğalgaz
+524,850000,100 M2,5-10,3,Boş,13 Aralık 2022,Konut,80 M2,2+1,Yüksek Giriş,Kombi Doğalgaz
+526,545000,140 M2,21 Ve Üzeri,4,Kiracı Oturuyor,29 Aralık 2022,Konut,120 M2,3+1,4.Kat,Kombi Doğalgaz
+528,2950000,200 M2,0 (Yeni),6,Boş,13 Aralık 2022,Konut,155 M2,3+1,6.Kat,Merkezi (Pay Ölçer)
+530,1300000,95 M2,0 (Yeni),3,Boş,13 Aralık 2022,Konut,87 M2,2+1,2.Kat,Yerden Isıtma
+532,1245000,135 M2,4,3,Boş,13 Aralık 2022,Konut,120 M2,3+1,Yüksek Giriş,Kombi Doğalgaz
+534,2425000,170 M2,1,4,Kiracı Oturuyor,29 Aralık 2022,Konut,107 M2,2+1,Bahçe Katı,Yerden Isıtma
+536,750000,85 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,13 Aralık 2022,Konut,80 M2,2+1,1.Kat,Kombi Doğalgaz
+538,1090000,80 M2,0 (Yeni),3,Boş,12 Aralık 2022,Konut,70 M2,2+1,Bahçe Katı,Kombi Doğalgaz
+540,1489000,70 M2,0 (Yeni),5,Boş,12 Aralık 2022,Konut,61 M2,2+1,1.Kat,Yerden Isıtma
+542,787000,80 M2,5-10,4,Kiracı Oturuyor,12 Aralık 2022,Konut,65 M2,2+1,3.Kat,Kombi Doğalgaz
+544,3449000,127 M2,4,6,Kiracı Oturuyor,28 Aralık 2022,Konut,110 M2,2+1,4.Kat,Kombi Doğalgaz
+546,1850000,140 M2,21 Ve Üzeri,6,Boş,12 Aralık 2022,Konut,130 M2,3+1,1.Kat,Kombi Doğalgaz
+548,2540000,110 M2,5-10,4,Mülk Sahibi Oturuyor,11 Aralık 2022,Konut,95 M2,2+1,1.Kat,Kombi Doğalgaz
+550,1450000,175 M2,3,3,Mülk Sahibi Oturuyor,11 Aralık 2022,Konut,150 M2,3+2,3.Kat,Kombi Doğalgaz
+552,380000,85 M2,16-20,5,Boş,10 Aralık 2022,Konut,80 M2,2+1,Bahçe Katı,Isıtma Yok
+554,1525000,135 M2,11-15,11,Boş,10 Aralık 2022,Konut,120 M2,3+1,10.Kat,Kombi Doğalgaz
+556,460000,90 M2,21 Ve Üzeri,6,Boş,28 Aralık 2022,Konut,85 M2,2+1,Yüksek Bodrum,Merkezi Doğalgaz
+558,1760000,96 M2,0 (Yeni),8,Boş,28 Aralık 2022,Konut,75 M2,2+1,3.Kat,Yerden Isıtma
+560,3600000,340 M2,16-20,4,Kiracı Oturuyor,27 Aralık 2022,Konut,290 M2,6+3,Müstakil.Kat,Kombi Doğalgaz
+562,16600000,660 M2,5-10,3,Mülk Sahibi Oturuyor,27 Aralık 2022,Konut,600 M2,8+ Oda,Villa Tipi,Kombi Doğalgaz
+564,1675000,130 M2,2,8,Mülk Sahibi Oturuyor,28 Aralık 2022,Konut,105 M2,2+1,5.Kat,Yerden Isıtma
+566,1400000,165 M2,5-10,3,Kiracı Oturuyor,28 Aralık 2022,Konut,140 M2,3+1,3.Kat,Kombi Doğalgaz
+568,1750000,250 M2,5-10,4,Mülk Sahibi Oturuyor,27 Aralık 2022,Konut,230 M2,5+1,Çatı Katı,Kombi Doğalgaz
+570,14000000,1.300 M2,21 Ve Üzeri,5,Kiracı Oturuyor,27 Aralık 2022,Konut,1.200 M2,8+ Oda,1.Kat,Kombi Doğalgaz
+572,5499999,300 M2,0 (Yeni),5,Boş,27 Aralık 2022,Konut,270 M2,5+1,5.Kat,Yerden Isıtma
+574,2650000,250 M2,16-20,5,Boş,27 Aralık 2022,Konut,230 M2,5+1,Çatı Dubleks,Kombi Doğalgaz
+576,3100000,125 M2,4,7,Kiracı Oturuyor,26 Aralık 2022,Konut,119 M2,3+1,Yüksek Giriş,Kombi Doğalgaz
+578,5580000,212 M2,4,7,Boş,26 Aralık 2022,Konut,200 M2,4+1,7.Kat,Merkezi (Pay Ölçer)
+580,3150000,100 M2,0 (Yeni),1,Boş,26 Aralık 2022,Konut,75 M2,2+1,Düz Giriş,Sobalı
+582,1300000,135 M2,0 (Yeni),3,Boş,26 Aralık 2022,Konut,110 M2,3+1,Yüksek Giriş,Yerden Isıtma
+584,4200000,160 M2,4,6,Boş,26 Aralık 2022,Konut,140 M2,3+1,3.Kat,Merkezi (Pay Ölçer)
+586,2200000,118 M2,21 Ve Üzeri,3,Kiracı Oturuyor,26 Aralık 2022,Konut,100 M2,6+3,Müstakil.Kat,Kombi Doğalgaz
+588,1900000,160 M2,21 Ve Üzeri,5,Kiracı Oturuyor,26 Aralık 2022,Konut,150 M2,3+1,3.Kat,Kombi Doğalgaz
+590,11250000,350 M2,0 (Yeni),3,Boş,26 Aralık 2022,Konut,300 M2,3+2,Villa Tipi,Yerden Isıtma
+592,1025000,70 M2,0 (Yeni),5,Kiracı Oturuyor,24 Aralık 2022,Konut,60 M2,2+1,3.Kat,Yerden Isıtma
+594,1600000,110 M2,4,3,Kiracı Oturuyor,24 Aralık 2022,Konut,90 M2,4+1,Çatı Katı,Kombi Doğalgaz
+596,540000,95 M2,21 Ve Üzeri,2,Kiracı Oturuyor,24 Aralık 2022,Konut,85 M2,2+1,2.Kat,Klimalı
+598,4250000,120 M2,4,Kombi Doğalgaz,Krediye Uygun,24 Aralık 2022,Konut,115 M2,2+1,4,Kiracı Oturuyor
+600,975000,75 M2,5-10,4,Kiracı Oturuyor,24 Aralık 2022,Konut,65 M2,2+1,1.Kat,Kombi Doğalgaz
+602,2195000,214 M2,1,5,Boş,24 Aralık 2022,Konut,158 M2,3+1,5.Kat,Yerden Isıtma
+604,1300000,199 M2,1,4,Mülk Sahibi Oturuyor,23 Aralık 2022,Konut,155 M2,3+1,1.Kat,Yerden Isıtma
+606,1850000,140 M2,0 (Yeni),5,Boş,23 Aralık 2022,Konut,130 M2,3+1,1.Kat,Kombi Doğalgaz
+608,600000,110 M2,16-20,4,Mülk Sahibi Oturuyor,23 Aralık 2022,Konut,100 M2,3+1,4.Kat,Kombi Doğalgaz
+610,780000,140 M2,11-15,5,Boş,23 Aralık 2022,Konut,135 M2,3+1,3.Kat,Kombi Doğalgaz
+612,799000,95 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,23 Aralık 2022,Konut,85 M2,2+1,5.Kat,Kombi Doğalgaz
+614,2275000,155 M2,1,6,Boş,23 Aralık 2022,Konut,125 M2,3+1,2.Kat,Kombi Doğalgaz
+616,3750000,159 M2,21 Ve Üzeri,2,Mülk Sahibi Oturuyor,23 Aralık 2022,Konut,120 M2,2+1,Düz Giriş,Kombi Doğalgaz
+618,1075000,110 M2,11-15,1,Mülk Sahibi Oturuyor,23 Aralık 2022,Konut,95 M2,2+1,Düz Giriş,Sobalı
+620,999000,70 M2,0 (Yeni),5,Boş,22 Aralık 2022,Konut,60 M2,2+1,3.Kat,Yerden Isıtma
+622,2250000,130 M2,5-10,3,Kiracı Oturuyor,22 Aralık 2022,Konut,129 M2,2+1,Düz Giriş,Kombi Doğalgaz
+624,7250000,350 M2,16-20,3,Mülk Sahibi Oturuyor,22 Aralık 2022,Konut,250 M2,7+1,Villa Tipi,Klimalı
+626,25000000,4.000 M2,21 Ve Üzeri,Isıtma Yok,Krediye Uygun,22 Aralık 2022,Konut,3.999 M2,1 Oda,5,Boş
+628,1550000,149 M2,11-15,3,Kiracı Oturuyor,22 Aralık 2022,Konut,135 M2,3+1,Düz Giriş,Sobalı
+630,1110000,110 M2,11-15,5,Mülk Sahibi Oturuyor,22 Aralık 2022,Konut,95 M2,2+1,Düz Giriş,Kombi Doğalgaz
+632,785000,40 M2,5-10,5,Kiracı Oturuyor,22 Aralık 2022,Konut,38 M2,1+1,1.Kat,Kombi Doğalgaz
+634,770000,110 M2,5-10,5,Kiracı Oturuyor,22 Aralık 2022,Konut,100 M2,2+1,Düz Giriş,Kombi Doğalgaz
+636,1500000,90 M2,0 (Yeni),5,Boş,21 Aralık 2022,Konut,85 M2,2+1,2.Kat,Kombi Doğalgaz
+638,1200000,80 M2,0 (Yeni),5,Boş,21 Aralık 2022,Konut,65 M2,2+1,2.Kat,Yerden Isıtma
+640,1465000,110 M2,0 (Yeni),5,Boş,21 Aralık 2022,Konut,82 M2,2+1,1.Kat,Kombi Doğalgaz
+642,1600000,160 M2,21 Ve Üzeri,3,Boş,21 Aralık 2022,Konut,150 M2,4+1,Villa Tipi,Isıtma Yok
+644,1320000,155 M2,21 Ve Üzeri,3,Boş,21 Aralık 2022,Konut,150 M2,4+1,3.Kat,Kombi Doğalgaz
+646,755000,60 M2,5-10,3,Mülk Sahibi Oturuyor,21 Aralık 2022,Konut,50 M2,1+1,Düz Giriş,Kombi Doğalgaz
+648,6150000,222 M2,0 (Yeni),3,Boş,21 Aralık 2022,Konut,180 M2,4+1,2.Kat,Kombi Doğalgaz
+650,2585000,150 M2,5-10,6,Mülk Sahibi Oturuyor,21 Aralık 2022,Konut,130 M2,3+1,1.Kat,Merkezi (Pay Ölçer)
+652,1100000,78 M2,0 (Yeni),3,Boş,20 Aralık 2022,Konut,60 M2,2+1,1.Kat,Kombi Doğalgaz
+654,2200000,185 M2,11-15,3,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,155 M2,4+1,3.Kat,Kombi Doğalgaz
+656,1550000,135 M2,16-20,5,Boş,21 Aralık 2022,Konut,120 M2,3+1,2.Kat,Kombi Doğalgaz
+658,2250000,142 M2,16-20,5,Kiracı Oturuyor,21 Aralık 2022,Konut,135 M2,3+1,5.Kat,Kombi Doğalgaz
+660,1175000,110 M2,4,3,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,90 M2,2+1,3.Kat,Kombi Doğalgaz
+662,2550000,130 M2,3,5,Kiracı Oturuyor,20 Aralık 2022,Konut,115 M2,3+1,1.Kat,Kombi Doğalgaz
+664,2500000,250 M2,11-15,5,Boş,20 Aralık 2022,Konut,220 M2,4+1,Çatı Dubleks,Kombi Doğalgaz
+666,1200000,75 M2,0 (Yeni),4,Boş,20 Aralık 2022,Konut,70 M2,2+1,1.Kat,Kombi Doğalgaz
+668,1575000,130 M2,21 Ve Üzeri,4,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,100 M2,3+1,4.Kat,Kombi Doğalgaz
+670,5600000,300 M2,21 Ve Üzeri,2,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,240 M2,5+1,Düz Giriş,Kombi Doğalgaz
+672,1640000,140 M2,3,5,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,120 M2,3+1,1.Kat,Kombi Doğalgaz
+674,7000000,172 M2,0 (Yeni),2,Boş,20 Aralık 2022,Konut,150 M2,3+1,Bahçe Katı,Yerden Isıtma
+676,1850000,120 M2,4,4,Kiracı Oturuyor,20 Aralık 2022,Konut,100 M2,2+1,2.Kat,Kombi Doğalgaz
+678,7850000,300 M2,5-10,2,Boş,20 Aralık 2022,Konut,235 M2,5+1,2.Kat,Kombi Doğalgaz
+680,4150000,280 M2,5-10,3,Boş,20 Aralık 2022,Konut,240 M2,6+1,Düz Giriş,Kombi Doğalgaz
+682,1325000,66 M2,1,5,Kiracı Oturuyor,20 Aralık 2022,Konut,49 M2,2+1,5.Kat,Kombi Doğalgaz
+684,2500000,175 M2,4,4,Kiracı Oturuyor,20 Aralık 2022,Konut,150 M2,3+1,1.Kat,Kombi Doğalgaz
+686,8320000,220 M2,11-15,14,Kiracı Oturuyor,20 Aralık 2022,Konut,200 M2,4+1,12.Kat,Kombi Doğalgaz
+688,1850000,150 M2,11-15,4,Kiracı Oturuyor,20 Aralık 2022,Konut,138 M2,3+1,4.Kat,Merkezi (Pay Ölçer)
+690,6750000,401 M2,21 Ve Üzeri,Kombi Doğalgaz,Krediye Uygun,20 Aralık 2022,Konut,400 M2,8+ Oda,4,Boş
+692,1650000,140 M2,0 (Yeni),6,Boş,20 Aralık 2022,Konut,127 M2,3+1,Bahçe Katı,Yerden Isıtma
+694,4050000,230 M2,5-10,5,Kiracı Oturuyor,20 Aralık 2022,Konut,205 M2,4+1,5.Kat,Kombi Doğalgaz
+696,3950000,155 M2,2,6,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,140 M2,3+1,6.Kat,Yerden Isıtma
+698,1600000,180 M2,5-10,2,Mülk Sahibi Oturuyor,20 Aralık 2022,Konut,160 M2,2+1,Düz Giriş,Sobalı
+700,650000,135 M2,21 Ve Üzeri,4,Boş,19 Aralık 2022,Konut,120 M2,3+1,Düz Giriş,Kombi Doğalgaz
+702,3400000,200 M2,11-15,8,Boş,19 Aralık 2022,Konut,185 M2,4+1,1.Kat,Kombi Doğalgaz
+704,699000,120 M2,16-20,5,Kiracı Oturuyor,19 Aralık 2022,Konut,80 M2,2+0,Çatı Katı,Kombi Doğalgaz
+706,15500001,130 M2,21 Ve Üzeri,5,Boş,19 Aralık 2022,Konut,110 M2,3+1,5.Kat,Kombi Doğalgaz
+708,4000000,138 M2,0 (Yeni),14,Boş,19 Aralık 2022,Konut,125 M2,3+1,11.Kat,Yerden Isıtma
+710,1200000,65 M2,4,5,Kiracı Oturuyor,19 Aralık 2022,Konut,58 M2,2+1,Düz Giriş,Yerden Isıtma
+712,4000000,270 M2,16-20,24,Boş,19 Aralık 2022,Konut,240 M2,5+1,24.Kat,Merkezi (Pay Ölçer)
+714,8250000,380 M2,5-10,3,Kiracı Oturuyor,19 Aralık 2022,Konut,320 M2,5+1,Düz Giriş,Kombi Doğalgaz
+716,2850000,230 M2,5-10,3,Mülk Sahibi Oturuyor,19 Aralık 2022,Konut,200 M2,4+1,2.Kat,Kombi Doğalgaz
+718,399000,115 M2,21 Ve Üzeri,5,Kiracı Oturuyor,19 Aralık 2022,Konut,95 M2,2+1,Düz Giriş,Kombi Doğalgaz
+720,2450000,238 M2,0 (Yeni),5,Boş,19 Aralık 2022,Konut,165 M2,4+1,4.Kat,Kombi Doğalgaz
+722,850000,125 M2,21 Ve Üzeri,4,Kiracı Oturuyor,19 Aralık 2022,Konut,120 M2,3+1,4.Kat,Kombi Doğalgaz
+724,2375000,250 M2,0 (Yeni),5,Boş,19 Aralık 2022,Konut,220 M2,4+1,4.Kat,Kombi Doğalgaz
+726,1550000,95 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,19 Aralık 2022,Konut,90 M2,2+1,5.Kat,Kombi Doğalgaz
+728,3200000,212 M2,0 (Yeni),6,Boş,18 Aralık 2022,Konut,147 M2,3.5+1,1.Kat,Yerden Isıtma
+730,2900000,180 M2,0 (Yeni),9,Boş,18 Aralık 2022,Konut,135 M2,3+1,2.Kat,Kombi Doğalgaz
+732,1120000,85 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,18 Aralık 2022,Konut,75 M2,2+1,5.Kat,Kombi Doğalgaz
+734,1550000,120 M2,1,3,Kiracı Oturuyor,18 Aralık 2022,Konut,100 M2,3+1,2.Kat,Kombi Doğalgaz
+736,1800000,150 M2,0 (Yeni),7,Boş,18 Aralık 2022,Konut,120 M2,3+1,2.Kat,Kombi Doğalgaz
+738,1040000,100 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,18 Aralık 2022,Konut,90 M2,2+1,4.Kat,Kombi Doğalgaz
+740,2470000,169 M2,4,14,Kiracı Oturuyor,18 Aralık 2022,Konut,130 M2,2.5+1,10.Kat,Kombi Doğalgaz
+742,2615000,150 M2,5-10,7,Boş,17 Aralık 2022,Konut,130 M2,3+1,4.Kat,Merkezi (Pay Ölçer)
+744,1200000,140 M2,5-10,4,Mülk Sahibi Oturuyor,17 Aralık 2022,Konut,130 M2,3+1,Düz Giriş,Kombi Doğalgaz
+746,550000,100 M2,21 Ve Üzeri,4,Kiracı Oturuyor,17 Aralık 2022,Konut,90 M2,2+1,4.Kat,Kombi Doğalgaz
+748,1650000,150 M2,0 (Yeni),3,Boş,15 Aralık 2022,Konut,140 M2,3+1,Yüksek Giriş,Kombi Doğalgaz
+750,1000000,95 M2,11-15,3,Kiracı Oturuyor,15 Aralık 2022,Konut,85 M2,2+1,Yüksek Giriş,Kombi Doğalgaz
+752,2155000,142 M2,5-10,5,Boş,16 Aralık 2022,Konut,128 M2,3+1,3.Kat,Kombi Doğalgaz
+754,650000,95 M2,21 Ve Üzeri,5,Kiracı Oturuyor,15 Aralık 2022,Konut,85 M2,2+1,2.Kat,Doğalgaz Sobalı
+756,1350000,135 M2,5-10,3,Boş,15 Aralık 2022,Konut,120 M2,3+1,2.Kat,Kombi Doğalgaz
+758,350000,60 M2,21 Ve Üzeri,2,Mülk Sahibi Oturuyor,15 Aralık 2022,Konut,50 M2,1+1,Müstakil.Kat,Sobalı
+760,1160000,155 M2,0 (Yeni),4,Boş,15 Aralık 2022,Konut,130 M2,3+1,2.Kat,Kombi Doğalgaz
+762,1900000,140 M2,0 (Yeni),5,Boş,15 Aralık 2022,Konut,130 M2,3+1,1.Kat,Kombi Doğalgaz
+764,1990000,273 M2,4,2,Kiracı Oturuyor,14 Aralık 2022,Konut,205 M2,4+1,Çatı Dubleks,Merkezi Doğalgaz
+766,1200000,205 M2,21 Ve Üzeri,1,Kiracı Oturuyor,14 Aralık 2022,Konut,101 M2,3+1,1.Kat,Kombi Doğalgaz
+768,885000,120 M2,16-20,5,Mülk Sahibi Oturuyor,14 Aralık 2022,Konut,90 M2,2+1,4.Kat,Kombi Doğalgaz
+770,1575000,135 M2,21 Ve Üzeri,5,Kiracı Oturuyor,14 Aralık 2022,Konut,120 M2,3+1,5.Kat,Merkezi Doğalgaz
+772,580000,100 M2,21 Ve Üzeri,Doğalgaz Sobalı,Krediye Uygun Değil,14 Aralık 2022,Konut,85 M2,2+1,1,Mülk Sahibi Oturuyor
+774,1790000,144 M2,0 (Yeni),6,Boş,14 Aralık 2022,Konut,114 M2,3+1,Bahçe Katı,Kombi Doğalgaz
+776,769000,60 M2,5-10,4,Kiracı Oturuyor,13 Aralık 2022,Konut,55 M2,1+1,1.Kat,Kombi Doğalgaz
+778,1250000,165 M2,11-15,4,Mülk Sahibi Oturuyor,13 Aralık 2022,Konut,160 M2,4+1,4.Kat,Kombi Doğalgaz
+780,2499000,120 M2,0 (Yeni),6,Boş,12 Aralık 2022,Konut,100 M2,2+1,5.Kat,Yerden Isıtma
+782,5600000,200 M2,16-20,4,Mülk Sahibi Oturuyor,12 Aralık 2022,Konut,165 M2,3+1,Müstakil.Kat,Kombi Doğalgaz
+784,600000,95 M2,11-15,4,Boş,12 Aralık 2022,Konut,91 M2,2+1,3.Kat,Kombi Doğalgaz
+786,1190000,120 M2,5-10,4,Mülk Sahibi Oturuyor,12 Aralık 2022,Konut,100 M2,2+1,Yüksek Giriş,Kombi Doğalgaz
+788,1450000,115 M2,16-20,5,Boş,12 Aralık 2022,Konut,95 M2,2+1,Bahçe Katı,Kombi Doğalgaz
+790,4850003,95 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,12 Aralık 2022,Konut,90 M2,2+1,2.Kat,Kombi Doğalgaz
+792,785000,105 M2,21 Ve Üzeri,6,Boş,12 Aralık 2022,Konut,100 M2,2+1,5.Kat,Kombi Doğalgaz
+794,1675000,135 M2,21 Ve Üzeri,5,Mülk Sahibi Oturuyor,12 Aralık 2022,Konut,120 M2,2.5+1,1.Kat,Merkezi (Pay Ölçer)

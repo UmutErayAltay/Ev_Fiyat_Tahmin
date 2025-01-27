@@ -7,9 +7,6 @@ Bu proje, Türkiye'deki ev fiyatlarını tahmin etmek amacıyla geliştirilmişt
 - [Kullanım](#kullanım)
 - [Veri Seti](#veri-seti)
 - [Modelleme Süreci](#modelleme-süreci)
-- [Sonuçlar](#sonuçlar)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
 
 ---
 

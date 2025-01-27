@@ -45,7 +45,7 @@ Bu projeyi kullanmak için aşağıdaki adımları takip edebilirsiniz:
 
 ## Veri Seti
 
-Bu proje, ev fiyatlarını tahmin etmek için [özel bir veri seti](data/) kullanır. Veri setinde aşağıdaki özellikler bulunur:
+Bu proje, ev fiyatlarını tahmin etmek için [özel bir veri seti](data/düzenlenmiş_veri.csv) kullanır. Veri setinde aşağıdaki özellikler bulunur:
 - **Alan (metrekare):** Evin büyüklüğü.
 - **Oda Sayısı:** Evin odalarının sayısı.
 - **Konum:** Evin bulunduğu şehir/ilçe bilgisi.

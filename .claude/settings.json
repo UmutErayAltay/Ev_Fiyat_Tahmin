@@ -1,23 +1,28 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git status:*)",
-      "Bash(git diff:*)",
-      "Bash(git log:*)",
-      "Bash(git show:*)",
-      "Bash(git ls-files:*)",
-      "Bash(git add:*)",
-      "Bash(git commit:*)",
-      "Bash(ls:*)",
-      "Bash(npm test:*)",
-      "Bash(npm run test:*)",
-      "Bash(npm run lint:*)",
-      "Bash(npm run build:*)",
-      "Bash(npx tsc:*)",
-      "Bash(pytest:*)",
-      "Bash(python -m pytest:*)",
-      "Bash(python3 -m pytest:*)",
-      "Bash(ruff check:*)"
+      "Bash",
+      "Read",
+      "Edit",
+      "Write",
+      "Glob",
+      "Grep",
+      "NotebookEdit",
+      "WebFetch",
+      "WebSearch",
+      "mcp__github",
+      "mcp__Claude_Code_Remote",
+      "mcp__Claude_Docs",
+      "mcp__Gmail",
+      "mcp__Render",
+      "mcp__Supabase"
+    ],
+    "deny": [
+      "Bash(git push --force:*)",
+      "Bash(git push -f:*)",
+      "Bash(rm -rf /:*)",
+      "Bash(rm -rf ~:*)",
+      "Bash(sudo:*)"
     ]
   }
 }
